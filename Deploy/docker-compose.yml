@@ -1,0 +1,13 @@
+pwn:
+  build: ./pwn
+  volumes:
+    - ./pwn/home:/home/pwn:ro
+    - ./pwn/xinetd:/etc/xinetd.d/xinetd:ro
+  ports:
+    - "10000:80"
+web:
+  build: ./web
+  volumes:
+    - ./web/home:/var/www/html:ro
+  ports:
+    - "10001:80"

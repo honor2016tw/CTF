@@ -1,0 +1,1 @@
+There is a custom header called `x-flag:` in response when you request to `https://ctf.hackme.quest/scoreboard/`

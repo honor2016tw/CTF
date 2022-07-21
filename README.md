@@ -158,6 +158,8 @@
 │       │   └── README.md
 │       ├── login as admin 0
 │       │   └── README.md
+│       ├── login as admin 0.1
+│       │   └── README.md
 │       ├── ping
 │       │   └── README.md
 │       └── scoreboard
@@ -242,5 +244,5 @@
 │                   └── playfmt.c
 └── README.md
 
-92 directories, 148 files 
+93 directories, 149 files 
 ```
